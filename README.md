@@ -4,6 +4,8 @@
 
 ## 敲木鱼
 
+![](./images/muyu-clicked.gif)
+
 ![](./images/muyu-show&reset.gif)
 
 ## 重置功德 & 设置
